@@ -19,8 +19,8 @@ easily obtain needed information.
    [Data Store and Qi](docs/Data_Store_and_Qi.md)  
    [Data Ingress](docs/Data_Ingress.md)  
    [Access Control](docs/Access_Control.md)  
-   [samples](samples.md)  
-   [support](support.md)  
+   [samples](docs/samples.md)  
+   [support](docs/support.md)  
 
  
    
