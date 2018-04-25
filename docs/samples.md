@@ -1,6 +1,8 @@
-Samples
+---
+title: Samples
+weight: 5
+---
 
-#######
 
 The Qi-Samples illustrate several ways for applications to interact with the Qi REST API.
 

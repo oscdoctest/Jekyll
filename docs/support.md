@@ -1,6 +1,9 @@
-Getting support
+---
+title: Getting support
+weight: 6
+---
 
-###############
+
 
 The following email address is available to participants of the Qi
 Preview for both product support and feedback:

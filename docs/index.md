@@ -12,8 +12,7 @@ easily obtain needed information.
 
 
 
-.. toctree::
-   :maxdepth: 3
+
 
    OSIsoft_Cloud_Services
    Management_Overview

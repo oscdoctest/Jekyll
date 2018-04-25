@@ -1,6 +1,7 @@
-Data store and Qi
-
-=================
+---
+title: Data store and Qi
+weight: 2
+---
 
 The OSIsoft Cloud Services (OCS) Data Store is an optimized sequential data store based on Qi technology.
 
