@@ -1,4 +1,4 @@
-.. _Qi_Types_topic:
+﻿_Qi_Types_topic:
 
 Types
 =====

@@ -1,4 +1,4 @@
-.. _Qi_Stream_behavior_topic:
+﻿_Qi_Stream_behavior_topic:
 
 Qi Stream Behaviors
 ===================

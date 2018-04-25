@@ -1,5 +1,7 @@
-OSIsoft Cloud Services
-======================
+---
+title: OSIsoft Cloud Services
+weight: 0
+---
 
 The information in the sections that follow document the APIs and usage for each of the following:
 

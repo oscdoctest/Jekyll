@@ -1,4 +1,4 @@
-.. _Qi_Table_format_topic:
+_Qi_Table_format_topic:
 
 Table format
 ============

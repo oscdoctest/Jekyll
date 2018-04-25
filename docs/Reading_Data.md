@@ -1,4 +1,4 @@
-.. _Qi_Reading_data_topic:
+_Qi_Reading_data_topic:
 
 Reading data
 ============

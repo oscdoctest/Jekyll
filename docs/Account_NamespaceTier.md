@@ -1,5 +1,7 @@
-NamespaceTier
-=======================================================
+---
+title: NamespaceTier
+parent: docs/Management.md
+---
 
 An attribute that specifies namespace performance.
 

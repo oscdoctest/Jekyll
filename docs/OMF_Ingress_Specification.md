@@ -1,4 +1,5 @@
 Using OMF with Cloud Services
+
 =============================
 
 The OMF specification (located `here <http://omf-docs.osisoft.com>`_) is generic in that it does

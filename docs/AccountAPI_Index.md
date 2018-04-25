@@ -1,4 +1,4 @@
-.. _Qi_Account_mgmt_API_topic:
+Qi_Account_mgmt_API_topic:
 
 ====================================
 **API Calls for Account Management**

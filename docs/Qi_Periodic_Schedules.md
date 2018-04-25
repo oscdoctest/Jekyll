@@ -1,4 +1,5 @@
 Qi Periodic Schedules
+
 =====================
 
 The API calls in this section are all used to create, delete, and manage periodic schedules within a namespace. Schedules can be referenced by calculations. 

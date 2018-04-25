@@ -1,4 +1,5 @@
 Types
+
 =====
 
 SDS stores streams of events and provides convenient ways find and associating events. 

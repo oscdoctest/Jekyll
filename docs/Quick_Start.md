@@ -1,4 +1,4 @@
-.. _Quick_start_topic:
+﻿_Quick_start_topic:
 
 ===========
 Quick start

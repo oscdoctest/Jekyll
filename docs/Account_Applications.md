@@ -1,6 +1,7 @@
-Applications
-=======================================================
-
+---
+title: Applications
+parent: docs/Management.md
+---
 
 
 ``CreateClientApiKeyForApplication()``

@@ -1,4 +1,7 @@
-Role
+---
+title: Role
+parent: docs/Management.md
+---
 =======================================================
 
 A Role is an entity that is used to authorize API requests.

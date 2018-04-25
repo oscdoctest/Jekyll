@@ -1,4 +1,5 @@
-Searching for QiStreams
+﻿Searching for QiStreams
+
 =======================
 
 ``GetStreamsAsync`` is an overloaded method that is also used to search for and return QiStreams (also see `QiStreams <http://qi-docs-rst.readthedocs.org/en/latest/Qi_Streams.html>`__ for information about using ``GetStreamAsync`` to return streams). When you call an overloaded method, the software determines the most appropriate method to use by comparing the argument types specified in the call to the method definition.

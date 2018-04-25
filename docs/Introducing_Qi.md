@@ -1,4 +1,4 @@
-.. _Introducing_Qi_topic:
+﻿Introducing_Qi_topic:
 
 ==============
 Introducing Qi

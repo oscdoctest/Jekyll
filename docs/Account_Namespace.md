@@ -1,5 +1,7 @@
-Namespace
-=======================================================
+---
+title: Namespace
+parent: docs/Management.md
+---
 
 A Namespace is a collection of Data Streams.
 

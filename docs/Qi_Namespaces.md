@@ -1,5 +1,7 @@
-Qi Namespaces
-=============
+---
+title: Qi Namespaces
+parent: Management.md
+---
 
 
 A Qi tenant is divided into one or more Namespaces. Each Namespace is a logical entity 

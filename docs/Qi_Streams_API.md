@@ -1,4 +1,5 @@
-QiStream API
+﻿QiStream API
+
 ============
 
 The REST APIs provide programmatic access to read and write Qi data. The APIs in this 

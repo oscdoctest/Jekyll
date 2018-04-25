@@ -1,4 +1,5 @@
-Stream Metadata and Tags
+﻿Stream Metadata and Tags
+
 ========================
 
 QiStream metadata is represented as a dictionary of string keys and associated string values. 
