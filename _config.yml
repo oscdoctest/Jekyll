@@ -29,7 +29,7 @@ markdown: kramdown
 remote_theme: chromatical/jekyll-materialdocs
 plugins:
   - jekyll-feed
-
+menu_style: dropdown
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
