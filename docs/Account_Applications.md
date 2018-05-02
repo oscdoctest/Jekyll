@@ -4,7 +4,7 @@ parent: docs/Management.md
 ---
 # Table of Contents
 1. [CreateClientApiKeyForApplication](#createclientapikeyforapplication)
-2. [Example2](#example2)
+2. [GetClientApiKeyCollectionFromApplication](#getclientapikeycollectionfromapplication)
 3. [Third Example](#third-example)
 
 ## CreateClientApiKeyForApplication
@@ -51,14 +51,8 @@ Create a :ref:`ClientApiKeySet <ClientApiKeySetObj>` for the specified applicati
  }
 
 
-## Example2
-## Third Example
+## GetClientApiKeyCollectionFromApplication
 
-
-**********************
-
-GetClientApiKeyCollectionFromApplication
-----------------------------------------
 
 Get the :ref:`ClientApiKeyCollection <ClientApiKeyCollectionObj>` for the specified applicaiton.
 
