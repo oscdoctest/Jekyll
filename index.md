@@ -23,8 +23,7 @@ easily obtain needed information.
    [support](docs/support.md)  
     
      
-     \
-     \
+   
      
      
      
