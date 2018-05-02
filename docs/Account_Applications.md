@@ -2,10 +2,10 @@
 title: Applications
 parent: docs/Management.md
 ---
+[CreateClientApiKeyForApplication](#CreateClientApiKeyForApplication)
 
-
-``CreateClientApiKeyForApplication()``
-=======================================
+CreateClientApiKeyForApplication()
+==================================
 
 Create a :ref:`ClientApiKeySet <ClientApiKeySetObj>` for the specified application.
 
