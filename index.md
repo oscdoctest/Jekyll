@@ -21,9 +21,11 @@ easily obtain needed information.
    [Access Control](docs/Access_Control.md)  
    [samples](docs/samples.md)  
    [support](docs/support.md)  
-    \
-    \
-    \
-    \
-    \
+   <br />
+   <br />
+   <br />
+   <br />
+   <br />
+   <br />
+   <br />
   <footer/> [Edit this page](https://github.com/oscdoctest/Jekyll/edit/gh-pages/index.md)
