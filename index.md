@@ -22,15 +22,11 @@ easily obtain needed information.
    [samples](docs/samples.md)  
    [support](docs/support.md)  
     
-    <br/> 
-    <br/> 
-    <br/> 
-    <br/> 
-    <br/> 
-    <br/> 
-    <br/> 
-    <br/> 
-    <br/> 
-    <br/> 
-    <br/> 
-   [Edit this page](https://github.com/oscdoctest/Jekyll/edit/gh-pages/index.md)
+   
+     
+       
+         
+           
+             
+             
+  <footer/> [Edit this page](https://github.com/oscdoctest/Jekyll/edit/gh-pages/index.md)
