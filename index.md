@@ -26,11 +26,4 @@ easily obtain needed information.
     \
     \
     \
-   
-     
-       
-         
-           
-             
-             
   <footer/> [Edit this page](https://github.com/oscdoctest/Jekyll/edit/gh-pages/index.md)
