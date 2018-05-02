@@ -2,7 +2,10 @@
 title: Applications
 parent: docs/Management.md
 ---
-[CreateClientApiKeyForApplication](#CreateClientApiKeyForApplication)
+
+[CreateClientApiKeyForApplication](#CreateClientApiKeyForApplication)  
+[GetClientApiKeyCollectionFromApplication](#GetClientApiKeyCollectionFromApplication)  
+[DeleteClientApiKeyFromApplication](#DeleteClientApiKeyFromApplication)  
 
 CreateClientApiKeyForApplication
 ----------------------------------
@@ -53,8 +56,8 @@ Create a :ref:`ClientApiKeySet <ClientApiKeySetObj>` for the specified applicati
 
 **********************
 
-``GetClientApiKeyCollectionFromApplication``
----------------------------------------------
+GetClientApiKeyCollectionFromApplication
+----------------------------------------
 
 Get the :ref:`ClientApiKeyCollection <ClientApiKeyCollectionObj>` for the specified applicaiton.
 
@@ -97,8 +100,8 @@ Get the :ref:`ClientApiKeyCollection <ClientApiKeyCollectionObj>` for the specif
 
 **********************
 
-DeleteClientApiKeyFromApplication()
---------------------------------------
+DeleteClientApiKeyFromApplication
+---------------------------------
 
 Delete a specified :ref:`ClientApiKeySet <ClientApiKeySetObj>`.
 
