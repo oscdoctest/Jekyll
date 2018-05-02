@@ -2,7 +2,7 @@
 title: Applications
 parent: docs/Management.md
 ---
-## Table of Contents
+### Table of Contents
 1. [CreateClientApiKeyForApplication](#createclientapikeyforapplication)
 2. [GetClientApiKeyCollectionFromApplication](#getclientapikeycollectionfromapplication)
 3. [DeleteClientApiKeyFromApplication](#deleteclientapikeyfromapplication)
